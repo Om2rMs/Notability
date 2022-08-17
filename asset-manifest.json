@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Notability/static/css/main.0ad0f7d0.css",
+    "main.js": "/Notability/static/js/main.c482b9bc.js",
+    "static/media/note.webp": "/Notability/static/media/note.9aa72f0fe6a36a3fc042.webp",
+    "index.html": "/Notability/index.html",
+    "main.0ad0f7d0.css.map": "/Notability/static/css/main.0ad0f7d0.css.map",
+    "main.c482b9bc.js.map": "/Notability/static/js/main.c482b9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad0f7d0.css",
+    "static/js/main.c482b9bc.js"
+  ]
+}
