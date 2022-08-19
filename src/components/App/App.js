@@ -3,7 +3,6 @@ import Sidebar from "../Sidebar/Sidebar"
 import Editor from "../Editor/Editor";
 import Split from "react-split"
 import { nanoid } from "nanoid"
-import { data } from "../Data/Data"
 import './App.css'
 import image from './../../images/note.webp'
 
